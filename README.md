@@ -8,8 +8,11 @@
 *  出去容易，进来难
 
 #  学习计划
-*  java基本语法
 *  数据库
+  **  安装mysql-server5.5以上版本
+  **  熟练使用SQL基本语法进行 insert,update,select,delete操作
+  **  建一张学生表，有姓名、性别、年龄、学号字段，能用SQL语句进行增、删、改、查
+  **  上传上面的SQL到自己的git仓库
 *  jdbc
 *  servlet
 *  mvn
