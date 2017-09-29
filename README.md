@@ -13,8 +13,8 @@
    *  熟练使用SQL基本语法进行 insert,update,select,delete操作
    *  建一张学生表，有姓名、性别、年龄、学号字段，能用SQL语句进行增、删、改、查
    *  上传上面的SQL到自己的git仓库
-*  jdbc,可以通过这个视频来学习
-   *  链接: https://pan.baidu.com/s/1boMLAtp 密码: rh5e
+*  jdbc
+   *  可以通过这个视频来学习,链接: https://pan.baidu.com/s/1boMLAtp 密码: rh5e
 
    *  可能用到的数据库连接串"jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=UTF-8&generateSimpleParameterMetadata=true&useOldAliasMetadataBehavior=true&UseOldSyntax=true"
    
